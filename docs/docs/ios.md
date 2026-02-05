@@ -500,11 +500,11 @@ extension Array {
 
 1. Create a app group for main App
 
-![group text](https://raw.githubusercontent.com/ajith-ab/react-native-receive-sharing-intent/master/doc/app%20group2.png)
+![group text](https://raw.githubusercontent.com/apru02/react-native-receive-sharing-intent/master/doc/app%20group2.png)
 
 2. Create a app group for Share Extension
 
-![group text](https://raw.githubusercontent.com/ajith-ab/react-native-receive-sharing-intent/master/doc/app%20group1.png)
+![group text](https://raw.githubusercontent.com/apru02/react-native-receive-sharing-intent/master/doc/app%20group1.png)
 
 
 

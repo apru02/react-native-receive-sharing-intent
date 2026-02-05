@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
-import ReceiveSharingIntent from 'react-native-receive-sharing-intent';
+import ReceiveSharingIntent from '@apru2002/react-native-receive-sharing-intent';
 
 export default function App() {
   React.useEffect(() => {

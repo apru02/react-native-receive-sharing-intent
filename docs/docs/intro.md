@@ -19,14 +19,14 @@ import TabItem from '@theme/TabItem';
 <TabItem value="npm">
 
 ```bash
-$ npm install react-native-receive-sharing-intent --save
+$ npm install @apru2002/react-native-receive-sharing-intent --save
 ```
 
 </TabItem>
 <TabItem value="yarn">
 
 ```bash
-$ yarn add react-native-receive-sharing-intent
+$ yarn add @apru2002/react-native-receive-sharing-intent
 ```
 
 </TabItem>
@@ -37,14 +37,14 @@ $ yarn add react-native-receive-sharing-intent
 
 
 ```shell
-$ npx react-native link react-native-receive-sharing-intent
+$ npx react-native link @apru2002/react-native-receive-sharing-intent
 ```
 
 Note: `Ios and Android on Debbuging time not working at sometimes while App is Closed`
 
 ## Usage
 ```javascript
-import ReceiveSharingIntent from 'react-native-receive-sharing-intent';
+import ReceiveSharingIntent from '@apru2002/react-native-receive-sharing-intent';
 
 
     // To get All Recived Urls

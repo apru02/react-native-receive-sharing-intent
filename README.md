@@ -8,15 +8,15 @@ Also, supports iOS Share extension and launching the host app automatically. Che
 
 | Android | Ios | 
 | :---: | :---: | 
-| <img height="400" src="https://raw.githubusercontent.com/ajith-ab/react-native-receive-sharing-intent/master/doc/android.gif" />| <img height="400"  src="https://raw.githubusercontent.com/ajith-ab/react-native-receive-sharing-intent/master/doc/ios.gif" /> |
+| <img height="400" src="https://raw.githubusercontent.com/apru02/react-native-receive-sharing-intent/master/doc/android.gif" />| <img height="400"  src="https://raw.githubusercontent.com/apru02/react-native-receive-sharing-intent/master/doc/ios.gif" /> |
 
 
 ## Installation
 
-1. <a href="https://ajith-ab.github.io/react-native-receive-sharing-intent/" >Home Page</a>
-2. <a href="https://ajith-ab.github.io/react-native-receive-sharing-intent/docs/intro" >Installation</a>
-3. <a href="https://ajith-ab.github.io/react-native-receive-sharing-intent/docs/android" >Android</a>
-4. <a href="https://ajith-ab.github.io/react-native-receive-sharing-intent/docs/ios" >IOS</a>
+1. <a href="https://apru02.github.io/react-native-receive-sharing-intent/" >Home Page</a>
+2. <a href="https://apru02.github.io/react-native-receive-sharing-intent/docs/intro" >Installation</a>
+3. <a href="https://apru02.github.io/react-native-receive-sharing-intent/docs/android" >Android</a>
+4. <a href="https://apru02.github.io/react-native-receive-sharing-intent/docs/ios" >IOS</a>
 
 ### Donate
 
